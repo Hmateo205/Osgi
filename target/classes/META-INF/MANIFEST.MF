@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGI
+Bundle-SymbolicName: com.osgi.bundle1
+Bundle-Version: 1.0.0
+Bundle-Activator: com.osgi.bundle1.Bundle1Activator
+Import-Package: org.osgi.framework
